@@ -18,13 +18,13 @@
     <td>WgetCloud</td>
     <td>速度快，原生IP支持奈飞非自制剧</td>
     <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
-    <td>SS/V2ray/SSR/Trojan</td>
+    <td>Trojan/V2ray/SSR</td>
   </tr>
   <tr>
-    <td>萌新云</td>
-    <td>有免费试用</td>
-    <td><a href="https://bit.ly/3g0hham" target="_blank">https://bit.ly/3g0hham</a></td>
-    <td>V2ray</td>
+    <td>飞机云</td>
+    <td>节点多</td>
+    <td><a href="https://bit.ly/45jcEiI" target="_blank">https://bit.ly/45jcEiI</a></td>
+    <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>极客云</td>
@@ -39,16 +39,22 @@
     <td>SSR和V2ray</td>
   </tr>
   <tr>
+    <td>VeePN</td>
+    <td>无限流量</td>
+    <td><a href="https://veepn.com/zh/" target="_blank">点击打开>></a>（优惠码：KJFX）</td>
+    <td>VPN一键连接</td>
+  </tr>
+  <tr>
     <td>Flyint飞数</td>
     <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/3BTMUMK" target="_blank">https://bit.ly/3BTMUMK</a></td>
+    <td><a href="https://bit.ly/42uM3gV" target="_blank">https://bit.ly/42uM3gV</a></td>
     <td>SS</td>
   </tr>
   <tr>
-    <td>XIXI</td>
-    <td>实惠</td>
-    <td><a href="https://bit.ly/3GSZ5vm" target="_blank">https://bit.ly/3GSZ5vm</a></td>
-    <td>SSR和V2ray</td>
+    <td>叮当云</td>
+    <td>免费试用</td>
+    <td><a href="https://bit.ly/3PypaGr" target="_blank">https://bit.ly/3PypaGr</a></td>
+    <td>V2Ray</td>
   </tr>
   <tr>
     <td>追风岛</td>
