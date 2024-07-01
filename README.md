@@ -10,9 +10,9 @@
   </tr>
   <tr>
     <td>WgetCloud</td>
-    <td>速度快，原生IP支持奈飞非自制剧</td>
+    <td>速度快，原生IP支持奈飞非自制剧，支持USDT</td>
     <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
-    <td>Trojan/V2ray/SSR</td>
+    <td>Trojan</td>
   </tr>
   <tr>
     <td>STC</td>
