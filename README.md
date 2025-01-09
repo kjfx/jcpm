@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h2>2024机场排名（V2ray/Clash/Trojan）机场购买</h2></td>
+    <td colspan="4" align="center"><h2>2025机场排名（V2ray/Clash/Trojan）机场购买</h2></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>WgetCloud</td>
-    <td>速度快，原生IP支持奈飞非自制剧，支持USDT</td>
+    <td>专线节点，速度快，原生IP支持奈飞非自制剧，支持USDT</td>
     <td><a href="https://bit.ly/wgetcloud" target="_blank">https://bit.ly/wgetcloud</a></td>
     <td>Trojan</td>
   </tr>
@@ -51,10 +51,10 @@
     <td>SS</td>
   </tr>
   <tr>
-    <td>叮当云</td>
-    <td>免费试用</td>
-    <td><a href="https://bit.ly/3Hzgw5b" target="_blank">https://bit.ly/3Hzgw5b</a></td>
-    <td>V2Ray</td>
+    <td>NaiU_Net</td>
+    <td>速度快</td>
+    <td><a href="https://kjxx.cc/naiu" target="_blank">https://bit.ly/3Bu3er8</a><a href="https://bit.ly/3Hzgw5b" target="_blank"></a></td>
+    <td>Trojan</td>
   </tr>
   <tr>
     <td>追风岛</td>
@@ -71,7 +71,7 @@
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://juzi90.com/auth/register?code=3HN1" target="_blank">https://bit.ly/3MkYkME</a></td>
+    <td><a href="https://bit.ly/42e4n10" target="_blank">https://bit.ly/42e4n10</a><a href="https://juzi90.com/auth/register?code=3HN1" target="_blank"></a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
