@@ -17,7 +17,7 @@
   <tr>
     <td>STC</td>
     <td>速度快，稳定， IPLC节点 </td>
-    <td><a href="https://bit.ly/3Ms8iOF" target="_blank">https://bit.ly/3Ms8iOF</a></td>
+    <td><a href="https://stt.txyun.xyz/" target="_blank">https://stt.txyun.xyz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
