@@ -45,10 +45,10 @@
     <td>VPN一键连接</td>
   </tr>
   <tr>
-    <td>Flyint飞数</td>
-    <td>速度快，按量购买</td>
-    <td><a href="https://bit.ly/4byScy2" target="_blank">https://bit.ly/4byScy2</a></td>
-    <td>SS</td>
+    <td>Mitce.com</td>
+    <td>便宜机场，节点多</td>
+    <td><a href="https://bit.ly/4butRKs" target="_blank">https://bit.ly/4butRKs</a></td>
+    <td>hysteria 2</td>
   </tr>
   <tr>
     <td>NaiU_Net</td>
