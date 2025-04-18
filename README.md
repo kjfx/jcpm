@@ -45,9 +45,9 @@
     <td>VPN一键连接</td>
   </tr>
   <tr>
-    <td>Mitce.com</td>
+    <td>Mitce</td>
     <td>便宜机场，节点多</td>
-    <td><a href="https://bit.ly/4butRKs" target="_blank">https://bit.ly/4butRKs</a></td>
+    <td><a href="https://bit.ly/4jfLX5V" target="_blank">https://bit.ly/4jfLX5V</a></td>
     <td>hysteria 2</td>
   </tr>
   <tr>
