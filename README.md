@@ -1,6 +1,6 @@
 <table width="100%" border="1" align="center" cellpadding="10" cellspacing="0">
   <tr>
-    <td colspan="4" align="center"><h1>2025机场排名（V2ray/Clash/翻墙机场排名vpn</h1></td>
+    <td colspan="4" align="center"><h1>2025机场排名（V2ray/Clash）翻墙机场排名vpn</h1></td>
   </tr>
   <tr>
     <td width="215" bgcolor="#00CCFF"><strong>机场名称</strong></td>
