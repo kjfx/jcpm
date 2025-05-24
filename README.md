@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>Mitce</td>
-    <td>便宜机场，节点多（8折码：like20）</td>
+    <td>便宜机场，无限流量（8折码：like20）</td>
     <td><a href="https://kjxx.cc/mit" target="_blank">https://kjxx.cc/mit</a></td>
     <td>hysteria 2/vless</td>
   </tr>
