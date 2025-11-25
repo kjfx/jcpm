@@ -53,13 +53,13 @@
   <tr>
     <td>桔子云</td>
     <td>性价比高</td>
-    <td><a href="https://bit.ly/42e4n10" target="_blank">https://bit.ly/42e4n10</a><a href="https://juzi90.com/auth/register?code=3HN1" target="_blank"></a></td>
+    <td><a href="https://bit.ly/4ogSizF" target="_blank">https://bit.ly/4ogSizF</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
     <td>优云666</td>
     <td>速度快</td>
-    <td><a href="https://bit.ly/3wzwRSB" target="_blank">https://bit.ly/3wzwRSB</a></td>
+    <td><a href="https://bit.ly/3JWShTz" target="_blank">https://bit.ly/3JWShTz</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
   <tr>
     <td>极客云</td>
     <td>实惠</td>
-    <td><a href="https://bit.ly/4k91Nj7" target="_blank">https://bit.ly/4k91Nj7</a></td>
+    <td><a href="https://bit.ly/4pr1kLl" target="_blank">https://bit.ly/4pr1kLl</a></td>
     <td>SSR和V2ray</td>
   </tr>
   <tr>
