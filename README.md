@@ -23,19 +23,19 @@
   <tr>
     <td>NaiU_Net</td>
     <td>速度快（7折码：TT30）</td>
-    <td><a href="https://kjxx.cc/naiu" target="_blank">https://kjxx.cc/naiu</a><a href="https://bit.ly/3Hzgw5b" target="_blank"></a></td>
+    <td><a href="https://kjvm.github.io/naiu" target="_blank">https://kjvm.github.io/naiu</a><a href="https://bit.ly/3Hzgw5b" target="_blank"></a></td>
     <td>Trojan</td>
   </tr>
   <tr>
     <td>XMRth</td>
     <td>流量超多，实惠</td>
-    <td><a href="https://kjxx.cc/xmr" target="_blank">https://kjxx.cc/xmr</a></td>
+    <td><a href="https://kjvm.github.io/xmr" target="_blank">https://kjvm.github.io/xmr</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
     <td>Biteb</td>
     <td>节点多，实惠</td>
-    <td><a href="https://kjxx.cc/bite" target="_blank">https://kjxx.cc/bite</a></td>
+    <td><a href="https://kjvm.github.io/bite" target="_blank">https://kjvm.github.io/bite</a></td>
     <td>V2ray</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
   <tr>
     <td>Mitce</td>
     <td>便宜机场，无限流量（8折码：like20）</td>
-    <td><a href="https://kjxx.cc/mit" target="_blank">https://kjxx.cc/mit</a></td>
+    <td><a href="https://kjvm.github.io/mit" target="_blank">https://kjvm.github.io/mit</a></td>
     <td>hysteria 2/vless</td>
   </tr>
   <tr>
@@ -73,6 +73,12 @@
     <td>实惠</td>
     <td><a href="https://bit.ly/4pr1kLl" target="_blank">https://bit.ly/4pr1kLl</a></td>
     <td>SSR和V2ray</td>
+  </tr>
+  <tr>
+    <td>快雷GO</td>
+    <td>实惠，有不限时套餐（码：aa555）</td>
+    <td><a href="https://uyez.github.io/kl" target="_blank">https://uyez.github.io/kl</a></td>
+    <td>Shadowsocks</td>
   </tr>
   <tr>
     <td>ExpressVPN</td>
